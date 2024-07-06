@@ -1,0 +1,1 @@
+2024/07/06 18:47:23 [error] 225#225: *61 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.19.0.2:3000/", host: "localhost"
