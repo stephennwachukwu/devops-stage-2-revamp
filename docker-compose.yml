@@ -72,7 +72,7 @@ services:
 
 volumes:
   postgres_data:
-  frontend-build
+  frontend-build:
   nginx_data:
   letsencrypt:
 
