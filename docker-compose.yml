@@ -59,7 +59,7 @@ services:
     container_name: proxy-manager
     restart: unless-stopped
     ports:
-      - "80:80"
+      - "81:81"
       - "8090:8090"
       - "8443:8443"
     environment:
