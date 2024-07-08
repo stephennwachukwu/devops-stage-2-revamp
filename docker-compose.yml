@@ -32,6 +32,8 @@ services:
       - ./frontend/.env
     #ports:
     #  - "3000:80"
+    environment:
+      - VITE_API_URL=https://indiestephanchuks.twilightparadox.com/api
     
   nginx:
     image: nginx:latest
