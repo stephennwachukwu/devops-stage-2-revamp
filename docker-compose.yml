@@ -28,8 +28,8 @@ services:
       context: ./frontend
     container_name: frontend
     restart: unless-stopped
-    env_file:
-      - ./frontend/.env
+    #env_file:
+    #  - ./frontend/.env
     #ports:
     #  - "3000:80"
     environment:
