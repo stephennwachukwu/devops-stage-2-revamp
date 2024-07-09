@@ -39,8 +39,8 @@ This repository contains a full-stack application setup using Docker Compose. Th
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/Ravencodess/devops-stage-2
-   cd devops-stage-2
+   git clone https://github.com/stephennwachukwu/devops-stage-2-revamp
+   cd devops-stage-2-revamp
    ```
 
 2. **Build and start the services**:
